@@ -1,0 +1,147 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+#heading
+{
+    border-radius: 0px;
+    color: gold;
+    background-color: gray;
+    border-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 10px;
+    border-bottom: 10px;
+}
+
+.topnav {
+	overflow: hidden;
+	position:sticky;
+	top: 0;
+    width: 100%;
+  }
+
+  .a_index
+  {
+    color: black;
+  }
+
+  #title_ip
+  {
+    color: gold;
+  }
+  
+  .a_div
+  {
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+    background-color: gray;
+    margin-top: 50px;
+    margin-left: 15cm;
+    margin-right: 15cm;
+    margin-bottom: 15px;
+  }
+  
+  .nrc1::after
+  {
+    content: "";
+	clear: both;
+	display: table;
+  }
+
+  #bookimg
+  {
+    size: 30px;
+  }
+
+  #booksummarytitle
+  {
+    margin-top: 25px;
+    color: mediumblue;
+    
+  }
+
+  .AbouttheBook
+  {
+    font-size: large;
+  }
+
+  #WSA_ATB
+  {
+    color: red;
+  }
+
+  #ATB_div
+  {
+    border-radius: 15px;
+    border-color: black;
+    border-width: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  #AbouttheBook
+  {
+    color: black;
+    margin-left: 3cm;
+    margin-right: 3cm;
+  }
+
+  #AbouttheCharacterTitle
+  {
+    margin-top: 25px;
+    color: mediumblue;
+  }
+
+  #AbouttheCharacter
+  {
+    margin-top: 10px;
+    font-size: large;
+    margin-left: 3cm;
+    margin-right: 3cm;
+  }
+
+  #BookReviewTitle
+  {
+    color: blue;
+    margin-top: 25px;
+  }
+
+  #BookReview
+  {
+    font-size: large;
+    margin-left: 3cm;
+    margin-right: 3cm;
+
+  }
+
+  .border
+  {
+    border-color: gray;
+    border: 2px;
+    border-style: solid;
+    margin-left: 3cm;
+    margin-right: 3cm;
+    margin-top: 10;
+  }
+
+  #Canva_book_review
+{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#AbouttheAuthorTitle
+{
+  color: blue;
+  margin-top: 25px;
+}
+
+#AbouttheAuthor
+{
+  font-size: large;
+}
